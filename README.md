@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sally392198@gmail.com)](mailto:sally392198@gmail.com)
+
+
+
 
 <!--
 **minjeong9707/minjeong9707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

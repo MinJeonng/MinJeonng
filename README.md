@@ -27,7 +27,7 @@
 	    <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-      <a href="mailto:sally392198@gmail.com">
+      <a href="mailto:sally3921@naver.com">
 		  <img src="https://img.shields.io/badge/Mail-D3FB52?style=flat&logo=Gmail&logoColor=white" />
       </a>
       <a href="https://blog.naver.com/sally3921">

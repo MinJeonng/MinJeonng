@@ -32,6 +32,7 @@
       <a href="https://velog.io/@sally3921">
 		  <img src="https://img.shields.io/badge/Blog-00B274?style=flat&logo=microdotblog&logoColor=white" />
 <br>
+<a href="https://velog-readme-stats.vercel.app/api/redirect?name=sally3921"><img src="https://velog-readme-stats.vercel.app/api?name=sally3921"></a>
 </div>
 
 

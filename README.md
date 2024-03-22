@@ -17,16 +17,16 @@
 <img src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
  <br/>
   <!--백-->
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <br/>	
  <!-- <img src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
- <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+
  
 
  <!--공부중 -->
  
 ### ✏️ Studying 
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
  <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img src = "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -34,19 +34,19 @@
 <br>
 
  <!--툴 -->
-### Tools :four_leaf_clover:
+### four_leaf_clover:Tools :
 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 <!-- <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /> -->
 
 <br>
 
 <h2>🎨 SNS & Portfolio 🎨</h2>
-<a href="mailto:sally3921@naver.com"><img src="https://img.shields.io/badge/Mail-D3FB52?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="https://velog.io/@sally3921"><img src="https://img.shields.io/badge/Blog-00B274?style=flat&logo=microdotblog&logoColor=white" /></a>
+<a href="mailto:sally3921@naver.com"><img src="https://img.shields.io/badge/Mail-D3FB52?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://velog.io/@sally3921"><img src="https://img.shields.io/badge/Blog-00B274?style=for-the-badge&logo=microdotblog&logoColor=white" /></a>
 <br>
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=sally3921"><img src="https://velog-readme-stats.vercel.app/api?name=sally3921"></a>
 </div>

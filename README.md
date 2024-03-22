@@ -44,7 +44,7 @@
 
 <br>
 
-<h2>🎨 SNS & Portfolio 🎨</h2>
+<h3>🎨 SNS & Portfolio 🎨</h3>
 <a href="mailto:sally3921@naver.com"><img src="https://img.shields.io/badge/Mail-D3FB52?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://velog.io/@sally3921"><img src="https://img.shields.io/badge/Blog-00B274?style=for-the-badge&logo=microdotblog&logoColor=white" /></a>
 <br>

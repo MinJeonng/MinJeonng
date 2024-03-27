@@ -50,6 +50,7 @@
 <br />
 <br />
 <h3> 📌 Recent Post <h3 />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/sally3921/velog-readme-stats)
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=sally3921"><img src="https://velog-readme-stats.vercel.app/api?name=sally3921" /></a>
 
 <br />

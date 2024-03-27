@@ -51,11 +51,8 @@
 <br />
 <h3> 📌 Recent Post <h3 />
 </div>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sally3921&tag=github)](https://velog.io/@sally3921/Velog-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C-Github%EB%A5%BC-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EC%9E%90)
-
  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/sally3921/velog-readme-stats)
-<a href="https://velog-readme-stats.vercel.app/api/redirect?name=sally3921"><img src="https://velog-readme-stats.vercel.app/api?name=sally3921" /></a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sally3921)](https://github.com/eungyeole/velog-readme-stats)
 
 <br />
 <!--

@@ -50,13 +50,16 @@
 <br />
 <br />
 <h3> 📌 Recent Post <h3 />
+</div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sally3921&tag=github)](https://velog.io/@sally3921/Velog-%ED%8F%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C-Github%EB%A5%BC-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EC%9E%90)
+
+ 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/sally3921/velog-readme-stats)
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=sally3921"><img src="https://velog-readme-stats.vercel.app/api?name=sally3921" /></a>
 
 <br />
 <!--
 [![Velog's GitHub stats]<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinJeonng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>]
-</div>
 -->
 
 

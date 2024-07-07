@@ -14,7 +14,6 @@
 <h4>✏️ Studying</h4>
  <img src = "https://img.shields.io/badge/Node.js-43853D?style=flat-circle&logo=node.js&logoColor=white" />
  <img src = "https://img.shields.io/badge/Next.js-000000?style-flat-circle&logo=next.js&logoColor=white"/>
- <img src = "https://img.shields.io/badge/Redux-593D88?style=flat-circle&logo=redux&logoColor=white" />
 <br>
 
 <h4>✔️ Tools</h4>

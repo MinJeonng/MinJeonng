@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-circle&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white" />
 <img src = "https://img.shields.io/badge/Sass-CC6699?style=flat-circle&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-circle&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-circle&logo=Tailwind CSS&logoColor=white"/>
 <img src = "https://img.shields.io/badge/jQuery-0769AD?style=flat-circle&logo=jquery&logoColor=white" />
 
 

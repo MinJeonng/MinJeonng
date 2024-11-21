@@ -35,6 +35,8 @@
 
 
 <h4> 📌 Recent Post <h4/>
+<!--  나중에 보여주고 싶은 벨로그 페이지만 딱 있다면 아래꺼 쓰기 -->
+<!--  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크) -->
 <a href="https://velog-readme-stats.vercel.app/api/redirect?name=sally3921"><img src="https://velog-readme-stats.vercel.app/api?name=sally3921" /></a>
 <br />
 

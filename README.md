@@ -7,11 +7,11 @@
 <img src = "https://img.shields.io/badge/Next.js-000000?style-flat-circle&logo=next.js&logoColor=white"/>
 
  <br/>
-<h4>🎨 Styling Stack</h4>
+<!-- <h4>🎨 Styling Stack</h4>
 <img src = "https://img.shields.io/badge/Sass-CC6699?style=flat-circle&logo=sass&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-circle&logo=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-circle&logo=styled-components&logoColor=white"/>
- <br/>
+ <br/> -->
 
 <h4>✏️ Learning</h4>
  <img src = "https://img.shields.io/badge/React Native-0088CC?style=flat-circle&logo=react&logoColor=61DAFB" />
